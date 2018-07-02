@@ -32,33 +32,14 @@ h3 {
   font-size: 1.3em;
 }
 
-div.element {
+.element {
   background-color: green;
   height: 100px;
   margin: 10px 0;
   width: 100%;
 }
 
-/* this div element is red */
-div.element_red {
-  background-color: red;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
-}
-
-/* this div element is purple */
-div.element_purple {
-  background-color: purple;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
-}
-
 /* this div element is orange */
-div.element_orange {
+.color {
   background-color: orange;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
 }
